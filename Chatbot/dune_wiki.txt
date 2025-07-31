@@ -1,0 +1,46 @@
+# Spice
+Spice, also known as melange, is the most valuable substance in the universe. Found only on Arrakis, it grants increased lifespan, heightened awareness, and is essential for interstellar travel via the Spacing Guild. In Dune: Awakening, players harvest Spice from desert blowouts and must manage exposure to Spice addiction.
+
+# Arrakis
+Arrakis is a vast desert world with extreme heat, frequent sandstorms, and little water. Despite its hostility, it holds the universe’s greatest prize: Spice. Survival requires careful resource management, shelter construction, and deep understanding of the environment.
+
+# Factions
+Playable and encountered factions include:
+- House Atreides: Noble, honorable, and strategic.
+- House Harkonnen: Brutal, cunning, and militaristic.
+- Fremen: Indigenous desert dwellers, masters of survival.
+- Spacing Guild: Controllers of interstellar travel.
+- CHOAM: A powerful economic cartel influencing trade.
+
+# Combat
+Combat in Dune: Awakening combines melee, ranged weapons, and abilities. Players must consider position, stamina, and terrain. Cloaking tech and shields provide tactical advantages. Environmental threats like sandworms add unpredictability to engagements.
+
+# Crafting
+The crafting system is modular and deep. Players collect components from exploration, harvesting, and salvage. Weapons, armor, and gear can be customized with rare materials like plasteel, fiberweave, or Spice-infused alloys. Base building requires structural blueprints and environmental adaptation.
+
+# Sandworms
+The mighty sandworms of Arrakis are ancient and territorial. They are drawn by rhythmic vibrations, including walking and combat. Encounters are lethal. Players must learn worm-signs and use thumpers to redirect or summon them. Some players may pursue riding or studying them.
+
+# Vehicles
+Dune: Awakening features ornithopters for fast travel and scouting. Players can also build or pilot ground vehicles for transport and combat. Vehicle fuel and maintenance are critical in the harsh desert.
+
+# Water Discipline
+Water is life. Players must harvest moisture, craft stillsuits, and avoid waste. Death in the desert leads to corpse looting, and water is a key resource. Fremen tech includes water traps and moisture reclamation systems.
+
+# Resources
+Key resources include:
+- Spice: Harvested from blowouts.
+- Water: Recovered from the environment and corpses.
+- Plasteel: Used for weapons and base parts.
+- Fiberweave: Flexible armor material.
+- Glowglobes: Lighting and scanning.
+- Organic Resin: Used in chemical crafting.
+
+# Multiplayer
+Players compete for Spice, raid bases, and form alliances. Server-wide events like sandworm migrations or CHOAM market fluctuations change objectives. PvP and PvE blend in dynamic world events.
+
+# Mentat Advisor
+Mentats are human computers trained to replace AI. In this world, a Mentat may advise players on optimal strategies, faction politics, and resource planning based on probability and historical data. They speak with precision, objectivity, and logical clarity.
+
+# The Butlerian Legacy
+Following the Butlerian Jihad, thinking machines were banned. Human computation is performed by Mentats and the Spacing Guild. Technology in Dune: Awakening reflects this — high-tech interfaces exist without true AI.
